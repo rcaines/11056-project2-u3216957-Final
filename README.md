@@ -47,6 +47,11 @@
 
   Furthermore, I proceeded with completing the navbar, footer and logo of the website alongside with adding text to the above image grid.
 
+**Research**
+  
+  From this exercise, it was found at times to be challenging to achieve a mixture of techniques and to mash them together so the major attributors to assisting in
+  attaining information required has been bootstrap and the occasional Youtube.
+
 **Problems**
 
 - HoverText for image grid
