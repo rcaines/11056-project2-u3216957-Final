@@ -47,16 +47,32 @@
 
   Furthermore, I proceeded with completing the navbar, footer and logo of the website alongside with adding text to the above image grid.
 
+
+**Blurring Images on Hover & intro video**
+  
+  Another attempt at having text for the images in a correct and organised matter was failed once again with text not appearing or not appearing for hover over
+  appearances. Some research was made on other websites to see how it was achieved and was found to be more complex than what ChatGPT was offering.
+  A compromise was made in the attempt was having the images interact when hovered over with a mouse to create a blurred effect. It was decided to add a
+  video as an addition to the website to add a bit of complexity and movement. From this ChatGPT provided a base structure and it worked. Just containing
+  the video and having stretch to the borders created a large drop down of white overlay from the background and I struggled to push up the rest of the page so
+  I could use only a strip of the video as an element similar to the navbar.
+  
+  A furter addition of colour to the navbar was done for a bit of fun aswell as asking ChatGPT to create a text for the about section.
+  
+  (Changed Edit) Removal of circular border for professionalism
+
 **Research**
   
   From this exercise, it was found at times to be challenging to achieve a mixture of techniques and to mash them together so the major attributors to assisting in
-  attaining information required has been bootstrap and the occasional Youtube.
+  attaining information required has been bootstrap and the occasional Youtube due to the complexities in code that I have not learnt that ChatGPT would put forward
+  to myself.
 
 **Problems**
 
 - HoverText for image grid
 - Circular border for image
 - Bootstrap or Javascript elements
+- Containing video element and pushing site upwards
 
 **Summary**
 
